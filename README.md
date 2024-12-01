@@ -15,6 +15,19 @@ I love connecting with others who share my passion for creating change through t
 * **Tech Stack:** Ruby, HTML, CSS, JavaScript, Shell
 * **Learnings:** Building a website from scratch using the model view controller framework and working in a team to develop a product
 
+#### 2. [Criminal Justice](https://github.com/RamshaRauf/CriminalJustice): ProPublica's Analysis Replication 
+* **About:** A Data Analysis Program that recreates ProPublica's analysis which proves that the software used nationwide to predict future criminals is biased against blacks.
+* **Tech Stack:** Java
+* **Learnings:** Tech for good, understanding the concept of classes in Java 
+
+
+#### 3. [Card Sorter: ] Understanding the 4 types of Sorting Algorithms(https://github.com/RamshaRauf/Card_Sorting)
+* **About:** A Card Sorter that sorts a deck of cards with 4 different sorting algorithms(Merge Sort, Selection Sort, Insertion Sort, and Quick Sort) and shows a visualization of how it is sorted.
+* **Tech Stack:** Java
+* **Learnings:** The sorting algorithms, and user interaction to visualize one step at a time
+
+
+
 
 
 ### 📫 How to Reach Me:
