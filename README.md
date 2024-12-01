@@ -11,6 +11,7 @@ I love connecting with others who share my passion for creating change through t
 
 ### 📫 How to Reach Me:
 **Email:** rrauf@smith[dot]edu
+
 **LinkedIn:** https://www.linkedin.com/in/ramsha-rauf/ 
 
 <!--
