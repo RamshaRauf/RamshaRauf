@@ -1,5 +1,6 @@
 ## Hello, I am Ramsha! 👋
 🎓 **Senior at Smith College majoring in Computer Science and Statistical and Data Sciences.** 
+
 🔍 **Passionate about AI, software engineering, and making an impact through technology**
 
 I’m passionate about using technology to solve real-world challenges, whether it’s developing AI-driven solutions or contributing to research like my geolocation project, which was featured at the TMA Conference in Germany. These experiences have only deepened my commitment to leveraging tech for meaningful impact.
