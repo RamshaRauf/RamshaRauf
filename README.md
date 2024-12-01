@@ -9,6 +9,14 @@ Currently, I’m an AI Studio Fellow at Michelin Mobility Intelligence, working 
 
 I love connecting with others who share my passion for creating change through technology. Have an opportunity or just want to chat about tech for good? Let’s connect—I’d love to hear from you! 🚀
 
+### 🛠 Tech Stack:
+* Languages: Python, Java, C++
+* Data Science: Pandas, NumPy, scikit-learn, TensorFlow
+* Web Dev: HTML, CSS, JavaScript (basic), Node.js
+* Tools: Jupyter Notebooks, Google Colab, Git, GitHub
+* Databases: SQL, MySQL
+
+
 ### 📫 How to Reach Me:
 **Email:** rrauf@smith[dot]edu
 
