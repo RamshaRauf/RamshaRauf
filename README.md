@@ -21,7 +21,7 @@ I love connecting with others who share my passion for creating change through t
 * **Learnings:** Tech for good, understanding the concept of classes in Java 
 
 
-#### 3. [Card Sorter: ] Understanding the 4 types of Sorting Algorithms(https://github.com/RamshaRauf/Card_Sorting)
+#### 3. [Card Sorter: ](https://github.com/RamshaRauf/CriminalJustice) Understanding the 4 types of Sorting Algorithms
 * **About:** A Card Sorter that sorts a deck of cards with 4 different sorting algorithms(Merge Sort, Selection Sort, Insertion Sort, and Quick Sort) and shows a visualization of how it is sorted.
 * **Tech Stack:** Java
 * **Learnings:** The sorting algorithms, and user interaction to visualize one step at a time
