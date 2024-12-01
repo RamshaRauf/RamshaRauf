@@ -26,8 +26,15 @@ I love connecting with others who share my passion for creating change through t
 * **Tech Stack:** Java
 * **Learnings:** The sorting algorithms, and user interaction to visualize one step at a time
 
+#### 4. [Spell Checker: ](https://github.com/RamshaRauf/Spell-Checker) Understanding hashmaps 
+* **About:** A spell-checking program that stores its dictionary in a hash table and takes in documents to check spelling.
+* **Tech Stack:** Java
+* **Learnings:** The hashmap data structure, and how spell checkers work
 
-
+#### 5. [Decision Tree: ](https://github.com/RamshaRauf/Decision_Tree) Simplest Machine Learning using Decision Trees
+* **About:** A program that tries to guess your favorite animal. If it is unable to guess your favorite animal, it asks you questions about your favorite animal and learns from it. The more you play the game the better the guessing game will become. 
+* **Tech Stack:** Java
+* **Learnings:** Decision trees, updating the existing memory 
 
 
 ### 📫 How to Reach Me:
