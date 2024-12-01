@@ -9,7 +9,7 @@ Currently, I’m an AI Studio Fellow at Michelin Mobility Intelligence, working 
 
 I love connecting with others who share my passion for creating change through technology. Have an opportunity or just want to chat about tech for good? Let’s connect—I’d love to hear from you! 🚀
 
-# 📫 How to Reach Me:
+### 📫 How to Reach Me:
 **Email:** rrauf@smith[dot]edu
 **LinkedIn:** https://www.linkedin.com/in/ramsha-rauf/ 
 
