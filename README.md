@@ -11,6 +11,7 @@ I love connecting with others who share my passion for creating change through t
 
 ### 🚀 Projects:
 1. [Graken: Bike Rental Website ](https://github.com/kakaplan/graken)
+
   Developed a bike rental website that allows customers to rent a bike from a station, and allows admin to edit and update the site. 
   Tech Stack: Ruby, HTML, CSS, JavaScript, Shell
   Learnings: Building a website from scratch using the model view controller framework and working in a team to develop a product
